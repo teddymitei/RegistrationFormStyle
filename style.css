@@ -157,6 +157,7 @@ a
 .check-box
 {
 	margin: 30px 10px 34px 0;
+	cursor: pointer;
 }
 span
 {
